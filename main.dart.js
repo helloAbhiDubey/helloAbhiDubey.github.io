@@ -38892,17 +38892,17 @@ ak(){var s=null,r=$.at(),q=t.N
 return new A.C_(new A.YX(),new A.t6(B.hb,r),new A.t6(B.hb,r),new A.t6(B.hb,r),A.b([A.anj(A.cW("1-10 analysts",s,s,s,s,s,s),"1-10",q),A.anj(A.cW("11-20 analysts",s,s,s,s,s,s),"11-20",q),A.anj(A.cW("20+ analysts",s,s,s,s,s,s),"20+",q)],t.FG))}}
 A.C_.prototype={
 av(){this.aU()},
-S(a5){var s,r,q,p,o=this,n=null,m="Smart Research",l="Real-time Updates",k="Enterprise Security",j="AI Integration",i="Full Name",h="Your full name",g="Investment Firm",f="Your firm name",e="Work Email",d="Your work email",c="[a-zA-Z0-9@._\\-+]",b="Research Team Size",a="Your team size",a0=t.E,a1=t.VS,a2=o.e,a3=o.f,a4=o.r
-if(A.c4(a5,n,t.w).w.a.a>900){s=A.hB(n,64,n)
+S(a9){var s,r,q,p,o=this,n=null,m="Smart Research",l="Automated data analysis and \npattern recognition",k="Real-time Updates",j="Instant market analysis \nand notifications",i="Enterprise Security",h="Bank-grade encryption and \ncompliance",g="AI Integration",f="Advanced LLM-powered \nanalysis",e="Full Name",d="Your full name",c="Investment Firm",b="Your firm name",a="Work Email",a0="Your work email",a1="[a-zA-Z0-9@._\\-+]",a2="Research Team Size",a3="Your team size",a4=t.E,a5=t.VS,a6=o.e,a7=o.f,a8=o.r
+if(A.c4(a9,n,t.w).w.a.a>900){s=A.hB(n,64,n)
 r=A.e7(16)
-r=A.lt(A.eI(A.b([A.fH(A.cW("Private Beta Access",n,n,n,A.dz(n,n,A.b7(4287931320),n,n,n,n,n,n,n,n,14,n,n,B.m1,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.w,n,new A.cA(B.dI,n,n,r,n,n,B.a0),n,n,B.CD,n),B.de,o.Ix(),B.jF,A.eI(A.b([A.z6(A.b([A.lt(o.l4(m,"Automated data analysis and \npattern recognition",B.bZ),1),B.jE,A.lt(o.l4(l,"Instant market analysis \nand notifications",B.fF),1)],a0),B.aq,B.X,B.al),B.dd,A.z6(A.b([A.lt(o.l4(k,"Bank-grade encryption and \ncompliance",B.bZ),1),B.jE,A.lt(o.l4(j,"Advanced LLM-powered \nanalysis",B.fF),1)],a0),B.aq,B.X,B.al)],a0),B.aq,B.X,B.al)],a0),B.aD,B.rj,B.al),2)
+r=A.lt(A.eI(A.b([A.fH(A.cW("Private Beta Access",n,n,n,A.dz(n,n,A.b7(4287931320),n,n,n,n,n,n,n,n,14,n,n,B.m1,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.w,n,new A.cA(B.dI,n,n,r,n,n,B.a0),n,n,B.CD,n),B.de,o.Ix(),B.jF,A.eI(A.b([A.z6(A.b([A.lt(o.l4(m,l,B.bZ),1),B.jE,A.lt(o.l4(k,j,B.fF),1)],a4),B.aq,B.X,B.al),B.dd,A.z6(A.b([A.lt(o.l4(i,h,B.bZ),1),B.jE,A.lt(o.l4(g,f,B.fF),1)],a4),B.aq,B.X,B.al)],a4),B.aq,B.X,B.al)],a4),B.aD,B.rj,B.al),2)
 q=A.e7(24)
 p=A.vt(B.cK)
-a0=A.eI(A.b([s,A.z6(A.b([r,B.LL,A.lt(A.vG(A.fH(A.eI(A.b([B.xF,B.h9,o.v4(a2,h,i),o.v4(a3,f,g),o.Bh(a4,d,A.b([new A.nT(A.ca(c,!0,!1),!0,"")],a1),e),o.Jz(a,b),B.h9,o.Nf()],a0),B.aD,B.X,B.al),B.w,n,new A.cA(B.dI,n,p,q,n,n,B.a0),n,n,B.il,520),n,n),1)],a0),B.aq,B.X,B.al)],a0),B.aq,B.X,B.al)}else{s=o.Ix()
-r=A.eI(A.b([o.l4(m,"Automated data analysis and pattern recognition",B.bZ),B.dd,o.l4(l,"Instant market analysis and notifications",B.fF),B.dd,o.l4(k,"Bank-grade encryption and compliance",B.bZ),B.dd,o.l4(j,"Advanced LLM-powered analysis",B.fF)],a0),B.aq,B.X,B.al)
+a4=A.eI(A.b([s,A.z6(A.b([r,B.LL,A.lt(A.vG(A.fH(A.eI(A.b([B.xF,B.h9,o.v4(a6,d,e),o.v4(a7,b,c),o.Bh(a8,a0,A.b([new A.nT(A.ca(a1,!0,!1),!0,"")],a5),a),o.Jz(a3,a2),B.h9,o.Nf()],a4),B.aD,B.X,B.al),B.w,n,new A.cA(B.dI,n,p,q,n,n,B.a0),n,n,B.il,520),n,n),1)],a4),B.aq,B.X,B.al)],a4),B.aq,B.X,B.al)}else{s=o.Ix()
+r=A.eI(A.b([o.l4(m,l,B.bZ),B.dd,o.l4(k,j,B.fF),B.dd,o.l4(i,h,B.bZ),B.dd,o.l4(g,f,B.fF)],a4),B.aq,B.X,B.al)
 q=A.e7(24)
 p=A.vt(B.cK)
-a0=A.eI(A.b([s,B.jF,r,B.jF,A.fH(A.eI(A.b([B.xF,B.h9,o.v4(a2,h,i),o.v4(a3,f,g),o.Bh(a4,d,A.b([new A.nT(A.ca(c,!0,!1),!0,"")],a1),e),o.Jz(a,b),B.h9,o.Nf()],a0),B.aD,B.X,B.al),B.w,n,new A.cA(B.dI,n,p,q,n,n,B.a0),n,n,B.il,1/0)],a0),B.aq,B.X,B.al)}return new A.z7(new A.KX(B.CL,a0,n),n)},
+a4=A.eI(A.b([s,B.jF,r,B.jF,A.fH(A.eI(A.b([B.xF,B.h9,o.v4(a6,d,e),o.v4(a7,b,c),o.Bh(a8,a0,A.b([new A.nT(A.ca(a1,!0,!1),!0,"")],a5),a),o.Jz(a3,a2),B.h9,o.Nf()],a4),B.aD,B.X,B.al),B.w,n,new A.cA(B.dI,n,p,q,n,n,B.a0),n,n,B.il,1/0)],a4),B.aq,B.X,B.al)}return new A.z7(new A.KX(B.CL,a4,n),n)},
 Ix(){return new A.xw(new A.ah1(),null)},
 l4(a,b,c){var s=null,r=A.e7(16),q=A.vt(B.cK),p=t.E
 return A.fH(A.z6(A.b([A.fH(s,B.w,s,new A.cA(c,s,s,A.e7(12),s,s,B.a0),40,s,s,40),B.jE,A.lt(A.eI(A.b([A.cW(a,s,s,s,B.PA,s,s),B.de,A.cW(b,2,B.bz,s,B.Na,s,s)],p),B.aD,B.X,B.al),1)],p),B.aD,B.X,B.al),B.w,s,new A.cA(B.dI,s,q,r,s,s,B.a0),s,s,B.CF,s)},
